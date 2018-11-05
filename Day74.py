@@ -75,4 +75,4 @@ def step_three(n, x):
 
 print(step_one(6, 12))
 print(step_two(6, 12))
-print(step_three(6,12))
+print(step_three(6, 12))
